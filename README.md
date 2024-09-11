@@ -1,9 +1,10 @@
 <!-- Banner Image -->
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" style="max-width: 100%; height: auto;">
+</p>
 
 <h1 align="center">Hi 👋, I'm Prathyusha</h1>
 <h3 align="center">Eager to learn and grow, driven by a passion for knowledge</h3>
-
 
 <p align="center">
     <img alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
@@ -12,10 +13,12 @@
 ---
 
 <h2 align="center">About Me</h2>
-<p align="center"><b>
-    🎓 Currently in my 3rd year of Engineering at St. Joseph Engineering College, Mangalore.<br>
-    🌟 Passionate about continuous learning and exploration in the field of technology.<br>
-    👨‍💻 All of my projects are available at <a href="https://prathyusha050.vercel.app/" target="_blank" rel="noopener noreferrer">https://prathyusha050.vercel.app/</a></b>
+<p align="center">
+    <b>
+        🎓 Currently in my 3rd year of Engineering at St. Joseph Engineering College, Mangalore.<br>
+        🌟 Passionate about continuous learning and exploration in the field of technology.<br>
+        👨‍💻 Check out my projects at <a href="https://prathyusha050.vercel.app/" target="_blank" rel="noopener noreferrer">prathyusha050.vercel.app</a>
+    </b>
 </p>
 
 ---
@@ -25,7 +28,8 @@
     <a href="https://linkedin.com/in/prathyusha-acharya" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-<!--     <a href="https://www.leetcode.com/prathyushaa7113" target="_blank" rel="noopener noreferrer">
+    <!-- Uncomment and add more links if needed -->
+    <!-- <a href="https://www.leetcode.com/prathyushaa7113" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a> -->
 </p>
@@ -82,12 +86,15 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    </a>
 </p>
 
 ---
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=prathyushaa5&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathyushaa5" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=prathyushaa5&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; height: auto;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathyushaa5" alt="GitHub Streak" style="max-width: 100%; height: auto;">
 </p>
