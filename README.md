@@ -29,9 +29,9 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <!-- Uncomment and add more links if needed -->
-    <!-- <a href="https://www.leetcode.com/prathyushaa7113" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.leetcode.com/prathyushaa7113" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a> -->
+    </a>
 </p>
 
 ---
