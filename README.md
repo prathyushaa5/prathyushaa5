@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" style="max-width: 100%; height: auto;">
 </p>
 
-<h1 align="center">Hi 👋, I'm Prathyusha</h1>
+<h1 align="center">Hi 👋, I'm Prathyusha Acharya</h1>
 <h3 align="center">Eager to learn and grow, driven by a passion for knowledge</h3>
 
 <p align="center">
