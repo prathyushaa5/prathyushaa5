@@ -28,7 +28,6 @@
     <a href="https://linkedin.com/in/prathyusha-acharya" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <!-- Uncomment and add more links if needed -->
     <a href="https://www.leetcode.com/prathyushaa7113" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
@@ -96,5 +95,6 @@
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=prathyushaa5&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; height: auto;">
+    <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathyushaa5" alt="GitHub Streak" style="max-width: 100%; height: auto;">
 </p>
