@@ -98,3 +98,11 @@
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathyushaa5" alt="GitHub Streak" style="max-width: 100%; height: auto;">
 </p>
+<hr>
+<h2 align="center" style="font-style: italic; color: #555;">"The journey of a thousand miles begins with one step." - Lao Tzu</h2>
+<p align="center" style="font-weight: bold; color: #333;">
+    Thank you for visiting my profile! 🌟<br>
+   
+</p>
+<hr>
+
