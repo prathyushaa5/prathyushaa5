@@ -17,7 +17,7 @@
     <b>
         🎓 Currently in my 3rd year of Engineering at St. Joseph Engineering College, Mangalore.<br>
         🌟 Passionate about continuous learning and exploration in the field of technology.<br>
-        👨‍💻 Check out my projects at <a href="https://prathyusha050.vercel.app/" target="_blank" rel="noopener noreferrer">prathyusha050.vercel.app</a>
+        👨‍💻 Check out my projects at <a href="https://prathyushhha-7113.vercel.app/" target="_blank" rel="noopener noreferrer">prathyusha050.vercel.app</a>
     </b>
 </p>
 
